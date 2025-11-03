@@ -1,0 +1,20 @@
+{
+  "name": "pvb-bot-manager",
+  "version": "1.0.0",
+  "description": "PVB Bot Database Management",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "13.5.6",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "@supabase/supabase-js": "^2.38.0",
+    "bcryptjs": "^2.4.3"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
